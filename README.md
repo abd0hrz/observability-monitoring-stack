@@ -200,4 +200,4 @@ CONTAINER ID        IMAGE               COMMAND             CREATED             
 
 ## Get support
 
-Create an [issue](https://github.com/fsilveir/docker-monitoring-stack/issues) if you want to report a problem or ask for a new functionality any feedback is highly appreciated!
+Create an [issue](https://github.com/abd0hrz/observability-monitoring-stack/issues) if you want to report a problem or ask for a new functionality any feedback is highly appreciated!
