@@ -37,12 +37,12 @@ This monitoring stack is composed by the following tools:
 
 - [Caddy:](https://github.com/stefanprodan/caddy-builder) Caddy is the HTTP/2 web server with automatic HTTPS, including additional plugins to make it act in a similar way as an Ingress/Proxy.
 
-## Requirements
+## ✅ Requirements
 
 - [Docker](https://docs.docker.com/engine/installation/)
 - [Docker Compose](https://docs.docker.com/compose/install/)
 
-## Architecture
+## 📊 Architecture
 
 The following is a visual representation of how the different tools will be integrated together:
 
