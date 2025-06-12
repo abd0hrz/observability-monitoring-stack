@@ -1,7 +1,14 @@
-# monitoring-stack
+# 🔍 Observability Stack: ELK + Grafana + Prometheus + Caddy
 
-Monitoring stack containing ELK + Grafana + Prometheus (with multiple exporters) and authentication through a reverse proxy (Caddy)
+A modular and extensible **monitoring stack** combining:
+- **ELK Stack** (Elasticsearch, Logstash, Kibana) for log management
+- **Prometheus** with **multiple exporters** for metrics collection
+- **Grafana** for visualization and alerting
+- **Caddy** as a reverse proxy with authentication
 
+> ⚠️ This project is a **work in progress**.
+
+---
 ## Overview
 
 This repository is inteended to assist implementing a set of tools for Log Consolidation and monitoring.
