@@ -71,7 +71,7 @@ To add a manager to this swarm, run 'docker swarm join-token manager' and follow
 **2.** Clone this repository to the target machine where the monitoring stack will be deployed:
 
 ```shell
-git clone git@github.com:fsilveir/monitoring-stack.git
+git clone git@github.com/abd0hrz/observability-monitoring-stack.git
 ```
 
 **3.** From the repository base directory, go into the `docker` directory and execute the following command on your target machine:
